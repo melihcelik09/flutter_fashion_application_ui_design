@@ -1,9 +1,8 @@
 # flutter_fashion_application
 ## Home Page
-![Screenshot_1644687026](https://user-images.githubusercontent.com/68864968/153721695-050e1529-43bb-40f6-863c-cb5c31f4beb0.png)
+![homepage](https://user-images.githubusercontent.com/68864968/153721695-050e1529-43bb-40f6-863c-cb5c31f4beb0.png =250x250)
 ## Detail Page
-![Screenshot_1644687052](https://user-images.githubusercontent.com/68864968/153721699-2104b92b-747f-443f-9b11-504554a16d5d.png)
-
+![detailpage](https://user-images.githubusercontent.com/68864968/153721699-2104b92b-747f-443f-9b11-504554a16d5d.png =250x250)
 
 ## Getting Started
 
