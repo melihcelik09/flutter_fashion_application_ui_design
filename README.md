@@ -1,9 +1,20 @@
+
 # flutter_fashion_application
 ## Home Page
-![homepage](https://user-images.githubusercontent.com/68864968/153721695-050e1529-43bb-40f6-863c-cb5c31f4beb0.png =250x250)
-## Detail Page
-![detailpage](https://user-images.githubusercontent.com/68864968/153721699-2104b92b-747f-443f-9b11-504554a16d5d.png =250x250)
+<p align="center">
+  <img  src="https://user-images.githubusercontent.com/68864968/153721695-050e1529-43bb-40f6-863c-cb5c31f4beb0.png" alt='homepage' width="300" height="600">
+</p>
 
+
+## Detail Page
+<p align="center">
+<img src="https://user-images.githubusercontent.com/68864968/153721699-2104b92b-747f-443f-9b11-504554a16d5d.png" alt='homepage' width="300" height="600">
+</p>
+
+## Source
+```
+https://dribbble.com/shots/5773232-Discovery-page/attachments
+```
 ## Getting Started
 
 This project is a starting point for a Flutter application.
